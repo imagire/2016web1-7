@@ -34,6 +34,9 @@ aside{
   background-color: blue;
   width: 200px;
   float: right;
+  position: relative;
+  top: 100px;
+  right: 10px;
 }
 footer{
   background-color: purple;

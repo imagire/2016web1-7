@@ -12,8 +12,7 @@ header{
   background-color: orange;
 }
 #main{
-  background-color: black;
-  color: white;
+  background-color: white;
   width: calc(100% - 200px);
   float: left;
 }

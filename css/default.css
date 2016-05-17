@@ -13,7 +13,7 @@ header{
 }
 #main{
   background-color: white;
-  width: calc(max(500px,100% - 200px));
+  width: max(500px,calc(100% - 200px));
   float: left;
 }
 #main1{

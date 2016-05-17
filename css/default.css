@@ -48,4 +48,5 @@ footer{
   position: absolute;
   left: 50px;
   top: 50px;
+  z-index: -1;
 }

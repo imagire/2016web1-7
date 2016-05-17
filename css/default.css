@@ -9,6 +9,12 @@ header{
 footer{
   background-color: purple;
 }
-body{
-  background-color: gray;
+aside{
+  background-color: blue;
+}
+.main1{
+  background-color: green;
+}
+.main2{
+  background-color: yellow;
 }

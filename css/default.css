@@ -24,7 +24,7 @@ header{
   height: 80px;
   margin: 5px;
   float: left;
-  overflow: visible;
+  overflow: scroll;
 }
 aside{
   background-color: blue;

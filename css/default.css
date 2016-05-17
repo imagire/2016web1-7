@@ -18,9 +18,10 @@ header{
   float: left;
 }
 .box{
-  background-color: red;
+  background-color: black;
+  color: white;
   width: 240px;
-  height 100px;
+  min-height 100px;
   margin: 5px;
   float: left;
 }

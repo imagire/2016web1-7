@@ -19,13 +19,18 @@ header{
 }
 #main1{
   background-color: green;
-  width: 249px;
-  margin:5px;
+  width: 500px;
   float: left;
 }
 #main2{
   background-color: yellow;
   width: 500px;
+  float: left;
+}
+.box{
+  background-color: orange;
+  width: 249px;
+  margin:5px;
   float: left;
 }
 aside{

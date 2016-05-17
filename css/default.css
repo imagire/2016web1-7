@@ -11,6 +11,10 @@ body{
 header{
   background-color: orange;
 }
+#main{
+  background-color: black;
+  float: left;
+}
 #main1{
   background-color: green;
   width: 500px;

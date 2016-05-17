@@ -45,4 +45,6 @@ footer{
 }
 #good_picture{
   width: 40px;
+  position: absolute;
+  
 }

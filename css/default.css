@@ -28,9 +28,10 @@ header{
   float: left;
 }
 .box{
-  background-color: orange;
+  background-color: black;
+  color: white;
   width: 249px;
-  margin:5px;
+  margin: 5px;
   float: left;
 }
 aside{
